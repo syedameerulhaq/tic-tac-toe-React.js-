@@ -1,0 +1,17 @@
+.block{
+    border: 2px solid red;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    display: flex;
+}
+.board{
+margin-top: 10%;
+margin-left: 40%;
+margin-bottom: 40%;
+}
