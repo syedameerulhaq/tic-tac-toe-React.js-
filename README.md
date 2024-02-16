@@ -24,6 +24,9 @@ export default {
   },
 }
 ```
+<h1>Screen Short</h1>
+<img src="Screen.png" alt ="err">
+
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
